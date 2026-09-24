@@ -3,10 +3,10 @@
 > A community-driven collection of open-source AI agents, agent frameworks, MCP servers, open-weight models, skills, tools, and real-world projects.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/open-source-ai-agents?style=flat-square)](https://github.com/YOUR_USERNAME/open-source-ai-agents/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/open-source-ai-agents?style=flat-square)](https://github.com/YOUR_USERNAME/open-source-ai-agents/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/open-source-ai-agents?style=flat-square)](https://github.com/YOUR_USERNAME/open-source-ai-agents/issues)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/open-source-ai-agents?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/extinctsion/hacktoberfest2026?style=flat-square)](https://github.com/YOUR_USERNAME/open-source-ai-agents/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/extinctsion/hacktoberfest2026?style=flat-square)](https://github.com/YOUR_USERNAME/open-source-ai-agents/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/extinctsion/hacktoberfest2026?style=flat-square)](https://github.com/YOUR_USERNAME/open-source-ai-agents/issues)
+[![License](https://img.shields.io/github/license/extinctsion/hacktoberfest2026?style=flat-square)](LICENSE)
 
 ## 🌟 Why this exists
 
